@@ -1,5 +1,5 @@
 // // SPDX-License-Identifier: MIT OR Apache-2.0
-// pragma solidity ^0.8.3;
+pragma solidity ^0.8.3;
 
 // contract Token {
 //   string public name = "Spark Token";
